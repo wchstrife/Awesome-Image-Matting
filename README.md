@@ -31,7 +31,7 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 
 - Indices Matter: Learning to Index for Deep Image Matting. [ICCV 2019] [Paper](https://arxiv.org/abs/1908.00672) [Code](https://github.com/poppinace/indexnet_matting) :fire: 
 
-- Disentangled Image Matting [Paper](https://arxiv.org/abs/1909.04686)
+- Disentangled Image Matting [ICCV 2019] [Paper](https://arxiv.org/abs/1909.04686)
 
 - LFM: A Late Fusion CNN for Digital Matting. [CVPR 2019] [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_A_Late_Fusion_CNN_for_Digital_Matting_CVPR_2019_paper.pdf)
 
