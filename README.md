@@ -19,6 +19,8 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 
 ## Paper
 
+- High-Resolution Deep Image Matting [arXiv] [Paper](https://arxiv.org/abs/2009.06613)
+
 - FBA: F, B, Alpha Matting. [ECCV 2020] [Paper](https://arxiv.org/abs/2003.07711) [Code](https://github.com/MarcoForte/FBA_Matting) :fire:
 
 - Background Matting: The World is Your Green Screen. [CVPR 2020] [Paper](https://arxiv.org/pdf/2004.00626v2.pdf) [Code](https://github.com/senguptaumd/Background-Matting) [ProjectPage](https://grail.cs.washington.edu/projects/background-matting/) :fire:
@@ -36,6 +38,10 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 - Disentangled Image Matting [ICCV 2019] [Paper](https://arxiv.org/abs/1909.04686)
 
 - LFM: A Late Fusion CNN for Digital Matting. [CVPR 2019] [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_A_Late_Fusion_CNN_for_Digital_Matting_CVPR_2019_paper.pdf)
+
+- Learning-based sampling for natural image matting [CVPR 2019] [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_Learning-Based_Sampling_for_Natural_Image_Matting_CVPR_2019_paper.pdf)
+
+- Very Deep Residual Network for Image Matting [ICIP 2019] [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8803682)
 
 - SHM: Semantic Human Matting. [MM 18] [Paper](https://arxiv.org/pdf/1809.01354.pdf)
 
