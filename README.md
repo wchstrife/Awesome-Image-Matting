@@ -8,7 +8,7 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 - [x] Add paper link
 - [x] Add codes if have
 - [x] Add project page if have
-- [ ] Datasets introduction
+- [x] Datasets introduction
 - [ ] Different category criteria
 
 #### :star: If you find this repo useful, please star it!!
@@ -18,6 +18,9 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 **Image Matting** is the process of accurately estimating the foreground object in images and videos. It is a very important technique in image and video editing applications, particularly in film production for creating visual effects. In case of image segmentation, we segment the image into foreground and background by labeling the pixels. Image segmentation generates a binary image, in which a pixel either belongs to foreground or background. However, Image Matting is different from the image segmentation, wherein some pixels may belong to foreground as well as background, such pixels are called partial or mixed pixels. In order to fully separate the foreground from the background in an image, accurate estimation of the alpha values for partial or mixed pixels is necessary.
 
 ## Paper
+
+- End-to-end Animal Image Matting [arXiv] [Paper](https://arxiv.org/pdf/2010.16188.pdf) [Code](https://github.com/JizhiziLi/animal-matting)
+
 - Hierarchical Opacity Propagation for Image Matting [arXiv] [Paper](https://arxiv.org/pdf/2004.03249.pdf) [Code](https://github.com/Yaoyi-Li/HOP-Matting)
 
 - High-Resolution Deep Image Matting [arXiv] [Paper](https://arxiv.org/abs/2009.06613)
@@ -58,6 +61,7 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 - alphamatting: [www.alphamatting.com](www.alphamatting.com)
 - Compostition-1K: [Please Email the Author](https://sites.google.com/view/deepimagematting)
 - Distinctions-646: [Please Email the Author](https://wukaoliu.github.io/HAttMatting/)
+- Matting Human Datasets: [Github](https://github.com/aisegmentcn/matting_human_datasets) [WebPage](www.aisegment.com)
 
 ## Evaluation Methods
 - A Perceptually Motivated Online Benckmark for Image Matting. [CVPR 2009] [Paper](https://www.microsoft.com/en-us/research/publication/a-perceptually-motivated-online-benchmark-for-image-matting/)
