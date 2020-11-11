@@ -56,7 +56,7 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 - Deep Automatic Portrait Matting. [ECCV 2016] [Paper](http://www.cse.cuhk.edu.hk/~leojia/projects/automatting/papers/deepmatting.pdf) [ProjectPage](http://www.cse.cuhk.edu.hk/~leojia/projects/automatting/index.html) 
 
 
-## Dataset & BenckMark
+## Dataset & BenchMark
 
 - alphamatting: [www.alphamatting.com](www.alphamatting.com)
 - Compostition-1K: [Please Email the Author](https://sites.google.com/view/deepimagematting)
