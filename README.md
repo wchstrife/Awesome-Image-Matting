@@ -19,6 +19,8 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 
 ## Paper
 
+- MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting? [arXiv] [Paper](https://arxiv.org/pdf/2011.11961.pdf) [Code](https://github.com/ZHKKKe/MODNet)
+
 - End-to-end Animal Image Matting [arXiv] [Paper](https://arxiv.org/pdf/2010.16188.pdf) [Code](https://github.com/JizhiziLi/animal-matting)
 
 - Hierarchical Opacity Propagation for Image Matting [arXiv] [Paper](https://arxiv.org/pdf/2004.03249.pdf) [Code](https://github.com/Yaoyi-Li/HOP-Matting)
@@ -41,6 +43,8 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 
 - Disentangled Image Matting [ICCV 2019] [Paper](https://arxiv.org/abs/1909.04686)
 
+- Context-Aware Image Matting for Simultaneous Foreground and Alpha Estimation [ICCV 2019] [Paper](https://arxiv.org/abs/1909.09725) [Code](https://github.com/hqqxyy/Context-Aware-Matting)
+
 - LFM: A Late Fusion CNN for Digital Matting. [CVPR 2019] [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_A_Late_Fusion_CNN_for_Digital_Matting_CVPR_2019_paper.pdf)
 
 - Learning-based sampling for natural image matting [CVPR 2019] [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_Learning-Based_Sampling_for_Natural_Image_Matting_CVPR_2019_paper.pdf)
@@ -62,6 +66,9 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 - Compostition-1K: [Please Email the Author](https://sites.google.com/view/deepimagematting)
 - Distinctions-646: [Please Email the Author](https://wukaoliu.github.io/HAttMatting/)
 - Matting Human Datasets: [Github](https://github.com/aisegmentcn/matting_human_datasets) [WebPage](www.aisegment.com)
+
+## Tools
+- [pymatting](https://github.com/pymatting/pymatting)
 
 ## Evaluation Methods
 - A Perceptually Motivated Online Benckmark for Image Matting. [CVPR 2009] [Paper](https://www.microsoft.com/en-us/research/publication/a-perceptually-motivated-online-benchmark-for-image-matting/)
