@@ -27,7 +27,7 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 
 - High-Resolution Deep Image Matting [arXiv] [Paper](https://arxiv.org/abs/2009.06613)
 
-- FBA: F, B, Alpha Matting. [ECCV 2020] [Paper](https://arxiv.org/abs/2003.07711) [Code](https://github.com/MarcoForte/FBA_Matting) :fire:
+- FBA: F, B, Alpha Matting. [arXiv] [Paper](https://arxiv.org/abs/2003.07711) [Code](https://github.com/MarcoForte/FBA_Matting) :fire:
 
 - Background Matting: The World is Your Green Screen. [CVPR 2020] [Paper](https://arxiv.org/pdf/2004.00626v2.pdf) [Code](https://github.com/senguptaumd/Background-Matting) [ProjectPage](https://grail.cs.washington.edu/projects/background-matting/) :fire:
 
