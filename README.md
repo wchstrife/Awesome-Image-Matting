@@ -19,6 +19,11 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 
 ## Paper
 
+- Mask Guided Matting via Progressive Refinement Network [arXiv] [Paper](https://arxiv.org/pdf/2012.06722.pdf) 
+
+- Real-Time High-Resolution Background Matting [arXiv] [Paper](https://arxiv.org/abs/2012.07810) [Code](PeterL1n/BackgroundMattingV2)
+
+
 - MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting? [arXiv] [Paper](https://arxiv.org/pdf/2011.11961.pdf) [Code](https://github.com/ZHKKKe/MODNet)
 
 - End-to-end Animal Image Matting [arXiv] [Paper](https://arxiv.org/pdf/2010.16188.pdf) [Code](https://github.com/JizhiziLi/animal-matting)
@@ -27,7 +32,7 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 
 - High-Resolution Deep Image Matting [arXiv] [Paper](https://arxiv.org/abs/2009.06613)
 
-- FBA: F, B, Alpha Matting. [arXiv] [Paper](https://arxiv.org/abs/2003.07711) [Code](https://github.com/MarcoForte/FBA_Matting) :fire:
+- FBA: F, B, Alpha Matting. [arXiv] [Paper](https://arxiv.org/abs/2003.07711) [Code](https://github.com/MarcoForte/FBA_Matting) 
 
 - Background Matting: The World is Your Green Screen. [CVPR 2020] [Paper](https://arxiv.org/pdf/2004.00626v2.pdf) [Code](https://github.com/senguptaumd/Background-Matting) [ProjectPage](https://grail.cs.washington.edu/projects/background-matting/) :fire:
 
