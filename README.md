@@ -19,12 +19,13 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 
 ## Paper
 
-- Improved Image Matting via Real-time User Clicks and Uncertainty Estimation [arXiv](https://arxiv.org/pdf/2012.08323.pdf)
+- Multi-scale Information Assembly for Image Matting [arXiv] [Paper](https://arxiv.org/abs/2101.02391)
+
+- Improved Image Matting via Real-time User Clicks and Uncertainty Estimation [arXiv] [Paper](https://arxiv.org/pdf/2012.08323.pdf)
 
 - Mask Guided Matting via Progressive Refinement Network [arXiv] [Paper](https://arxiv.org/pdf/2012.06722.pdf) 
 
 - Real-Time High-Resolution Background Matting [arXiv] [Paper](https://arxiv.org/abs/2012.07810) [Code](PeterL1n/BackgroundMattingV2)
-
 
 - MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting? [arXiv] [Paper](https://arxiv.org/pdf/2011.11961.pdf) [Code](https://github.com/ZHKKKe/MODNet)
 
