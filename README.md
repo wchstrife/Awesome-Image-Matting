@@ -2,14 +2,9 @@
 
 A curated list of deep learning image matting papers and codes since 2016, Inspired by [awesome-object-detection](https://github.com/amusi/awesome-object-detection), [deep_learning_object_detection](https://github.com/hoya012/deep_learning_object_detection) and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers).
 
-#### TODO LIST
+#### UPDATE
+- [x] Video Matting
 
-- [x] Main paper list
-- [x] Add paper link
-- [x] Add codes if have
-- [x] Add project page if have
-- [x] Datasets introduction
-- [ ] Different category criteria
 
 #### :star: If you find this repo useful, please star it!!
 
@@ -17,15 +12,22 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 
 **Image Matting** is the process of accurately estimating the foreground object in images and videos. It is a very important technique in image and video editing applications, particularly in film production for creating visual effects. In case of image segmentation, we segment the image into foreground and background by labeling the pixels. Image segmentation generates a binary image, in which a pixel either belongs to foreground or background. However, Image Matting is different from the image segmentation, wherein some pixels may belong to foreground as well as background, such pixels are called partial or mixed pixels. In order to fully separate the foreground from the background in an image, accurate estimation of the alpha values for partial or mixed pixels is necessary.
 
-## Paper
+## Video Matting
+- Deep Video Matting via Spatio-Temporal Alignment and Aggregation[CVPR 2021] [Paper](https://arxiv.org/abs/2104.11208) [Code](https://github.com/nowsyn/DVM)
+
+## Image Matting
+
+- Semantic Image Matting [CVPR 2021] [Paper](https://arxiv.org/abs/2104.08201) [Code](https://github.com/nowsyn/SIM)
+
+- Towards Enhancing Fine-grained Details for Image Matting [WACV 2021] [Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Liu_Towards_Enhancing_Fine-Grained_Details_for_Image_Matting_WACV_2021_paper.pdf)
 
 - Multi-scale Information Assembly for Image Matting [arXiv] [Paper](https://arxiv.org/abs/2101.02391)
 
 - Improved Image Matting via Real-time User Clicks and Uncertainty Estimation [arXiv] [Paper](https://arxiv.org/pdf/2012.08323.pdf)
 
-- Mask Guided Matting via Progressive Refinement Network [arXiv] [Paper](https://arxiv.org/pdf/2012.06722.pdf) 
+- Mask Guided Matting via Progressive Refinement Network [CVPR 2021] [Paper](https://arxiv.org/pdf/2012.06722.pdf) 
 
-- Real-Time High-Resolution Background Matting [arXiv] [Paper](https://arxiv.org/abs/2012.07810) [Code](PeterL1n/BackgroundMattingV2)
+- Real-Time High-Resolution Background Matting [CVPR 2021] [Paper](https://arxiv.org/abs/2012.07810) [Code](PeterL1n/BackgroundMattingV2)
 
 - MODNet: Is a Green Screen Really Necessary for Real-Time Portrait Matting? [arXiv] [Paper](https://arxiv.org/pdf/2011.11961.pdf) [Code](https://github.com/ZHKKKe/MODNet)
 
@@ -33,7 +35,7 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 
 - Hierarchical Opacity Propagation for Image Matting [arXiv] [Paper](https://arxiv.org/pdf/2004.03249.pdf) [Code](https://github.com/Yaoyi-Li/HOP-Matting)
 
-- High-Resolution Deep Image Matting [arXiv] [Paper](https://arxiv.org/abs/2009.06613)
+- High-Resolution Deep Image Matting [AAAI 2021] [Paper](https://arxiv.org/abs/2009.06613)
 
 - FBA: F, B, Alpha Matting. [arXiv] [Paper](https://arxiv.org/abs/2003.07711) [Code](https://github.com/MarcoForte/FBA_Matting) 
 
