@@ -15,6 +15,8 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 ## Video Matting
 - Deep Video Matting via Spatio-Temporal Alignment and Aggregation[CVPR 2021] [Paper](https://arxiv.org/abs/2104.11208) [Code](https://github.com/nowsyn/DVM)
 
+-  Robust High-Resolution Video Matting with Temporal Guidance [WACV2022] [Paper](https://arxiv.org/pdf/2108.11515.pdf) [Code](https://github.com/PeterL1n/RobustVideoMatting) [Project](https://peterl1n.github.io/RobustVideoMatting/#/)
+
 ## Image Matting
 
 - Semantic Image Matting [CVPR 2021] [Paper](https://arxiv.org/abs/2104.08201) [Code](https://github.com/nowsyn/SIM)
