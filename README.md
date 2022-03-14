@@ -68,8 +68,6 @@ Strong Data Augmentation [arXiv 2022] [Paper](https://arxiv.org/abs/2201.06889)
 
 - Disentangled Image Matting [ICCV 2019] [Paper](https://arxiv.org/abs/1909.04686)
 
-- Context-Aware Image Matting for Simultaneous Foreground and Alpha Estimation [ICCV 2019] [Paper](https://arxiv.org/abs/1909.09725) [Code](https://github.com/hqqxyy/Context-Aware-Matting)
-
 - LFM: A Late Fusion CNN for Digital Matting. [CVPR 2019] [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_A_Late_Fusion_CNN_for_Digital_Matting_CVPR_2019_paper.pdf)
 
 - Learning-based sampling for natural image matting [CVPR 2019] [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Tang_Learning-Based_Sampling_for_Natural_Image_Matting_CVPR_2019_paper.pdf)
