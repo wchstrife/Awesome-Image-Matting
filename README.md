@@ -22,6 +22,8 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 
 ## Image Matting
 
+- MatteFormer: Transformer-Based Image Matting via Prior-Tokens [CVPR 2022] [Paper](https://arxiv.org/abs/2203.15662)  [Code](https://github.com/webtoon/matteformer) :fire:
+
 - Boosting Robustness of Image Matting with Context Assembling and
 Strong Data Augmentation [arXiv 2022] [Paper](https://arxiv.org/abs/2201.06889)
 
