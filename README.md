@@ -22,6 +22,8 @@ A curated list of deep learning image matting papers and codes since 2016, Inspi
 
 ## Image Matting
 
+- ViTMatte: Boosting Image Matting with Pretrained Plain Vision Transformers [Information Fusion] [Paper](https://arxiv.org/abs/2305.15272)  [Code](https://github.com/hustvl/ViTMatte)  [🤗Transformers-ViTMatte](https://huggingface.co/docs/transformers/main/model_doc/vitmatte#vitmatte) :fire:
+
 - MatteFormer: Transformer-Based Image Matting via Prior-Tokens [CVPR 2022] [Paper](https://arxiv.org/abs/2203.15662)  [Code](https://github.com/webtoon/matteformer) :fire:
 
 - Boosting Robustness of Image Matting with Context Assembling and
