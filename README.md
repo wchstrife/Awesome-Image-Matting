@@ -96,6 +96,7 @@ Strong Data Augmentation [arXiv 2022] [Paper](https://arxiv.org/abs/2201.06889)
 
 ## Tools
 - [pymatting](https://github.com/pymatting/pymatting)
+- [zapmatte-green-screen-remover](https://github.com/wsmhj/zapmatte-green-screen-remover) - Open-source green screen remover for video: transparent WebM, ProRes 4444, alpha matte. Built on Robust Video Matting + chroma key + despill.
 
 ## Evaluation Methods
 - A Perceptually Motivated Online Benckmark for Image Matting. [CVPR 2009] [Paper](https://www.microsoft.com/en-us/research/publication/a-perceptually-motivated-online-benchmark-for-image-matting/)
